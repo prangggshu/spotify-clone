@@ -33,6 +33,18 @@ A fully responsive, JavaScript-powered clone of the Spotify Web Player — strea
 
 ---
 
+
+## 🧪 Demo
+
+Experience the Spotify Web Player Clone in action:
+
+🌐 **Live Demo**: [Spotify Music Player](https://misfit-spotify.netlify.app/)  
+
+> 🔊 Load the project on a local server and start playing your favorite tracks from the `/songs/` directory with smooth controls and responsive design.
+
+---
+
+
 ## 📁 Project Structure
 
 ```bash
